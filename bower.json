@@ -1,0 +1,22 @@
+{
+  "name": "elm-polymer",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ossi Hanhinen <ossi.hanhinen@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.3",
+    "google-map": "GoogleWebComponents/google-map#~1.1.8"
+  }
+}
